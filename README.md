@@ -1,5 +1,5 @@
 # Capstone-Projects
-Hotel Booking Analysis
+Telecom Churning analysis
 Renting a bike regression 
 Corona Virus tweets sentiment 
 Customer Segmentation
